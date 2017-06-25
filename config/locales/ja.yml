@@ -28,7 +28,7 @@ ja:
     status_count_before: トゥート数
     terms: プライバシーポリシー
     user_count_after: 人
-    user_count_before: ユーザー数
+    user_count_before: カリスマ数
     version: バージョン
   accounts:
     follow: フォロー
@@ -39,7 +39,7 @@ ja:
     people_who_follow: "%{name} さんをフォロー中のアカウント"
     posts: 投稿
     remote_follow: リモートフォロー
-    reserved_username: このユーザー名は予約されています。
+    reserved_username: このカリスマ名は予約されています。
     unfollow: フォロー解除
   activitypub:
     activity:
@@ -103,7 +103,7 @@ ja:
       undo_silenced: サイレンスから戻す
       undo_suspension: 停止から戻す
       unsubscribe: 購読の解除
-      username: ユーザー名
+      username: カリスマ名
       web: Web
     domain_blocks:
       add_new: 新規追加
@@ -167,7 +167,7 @@ ja:
       contact_information:
         email: 公開するメールアドレスを入力
         label: 連絡先情報
-        username: ユーザー名を入力
+        username: カリスマ名を入力
       registrations:
         closed_message:
           desc_html: 新規登録を停止しているときにフロントページに表示されます。<br>HTMLタグが利用可能です。
@@ -233,7 +233,7 @@ ja:
   deletes:
     bad_password_msg: パスワードが違います
     confirm_password: 本人確認のため、現在のパスワードを入力してください。
-    description_html: あなたのアカウントに含まれるコンテンツは全て削除され、アカウントは無効化されます。これは恒久的なもので、<strong>取り消すことはできません</strong>。なりすましを防ぐために、同じユーザー名で再度登録することはできなくなります。
+    description_html: あなたのアカウントに含まれるコンテンツは全て削除され、アカウントは無効化されます。これは恒久的なもので、<strong>取り消すことはできません</strong>。なりすましを防ぐために、同じカリスマ名で再度登録することはできなくなります。
     proceed: アカウントを削除する
     success_msg: アカウントは正常に削除されました
     warning_html: 削除が保証されるのはこのインスタンス上のコンテンツのみです。他のインスタンス等、外部に広く共有されたコンテンツについては痕跡が残ることがあります。また、現在接続できないサーバーや、あなたの更新を受け取らなくなったサーバーに対しては、削除は反映されません。
@@ -280,7 +280,7 @@ ja:
       following: フォロー中のアカウントリスト
       muting: ミュートしたアカウントリスト
     upload: アップロード
-  landing_strip_html: "<strong>%{name}</strong> さんはインスタンス %{link_to_root_path} のユーザーです。アカウントさえ持っていればフォローしたり会話したりできます。"
+  landing_strip_html: "<strong>%{name}</strong> さんはインスタンス %{link_to_root_path} のカリスマです。アカウントさえ持っていればフォローしたり会話したりできます。"
   landing_strip_signup_html: もしお持ちでないなら <a href="%{sign_up_path}">こちら</a> からサインアップできます。
   media_attachments:
     validations:
@@ -316,7 +316,7 @@ ja:
     prev: 前
     truncate: "&hellip;"
   remote_follow:
-    acct: あなたの ユーザー名@ドメイン を入力してください
+    acct: あなたの カリスマ名@ドメイン を入力してください
     missing_resource: リダイレクト先が見つかりませんでした
     proceed: フォローする
     prompt: 'フォローしようとしています:'
@@ -328,7 +328,7 @@ ja:
     export: データのエクスポート
     followers: 信頼済みのインスタンス
     import: データのインポート
-    preferences: ユーザー設定
+    preferences: カリスマ設定
     settings: 設定
     two_factor_authentication: 二段階認証
   statuses:
